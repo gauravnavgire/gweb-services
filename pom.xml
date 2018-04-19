@@ -86,11 +86,11 @@
 			<artifactId>HikariCP</artifactId>
 		</dependency>
 
-		<dependency>
+<!--		<dependency>
       <groupId>ar.com.fdvs</groupId>
       <artifactId>DynamicJasper</artifactId>
       <version>5.0.5</version>
-    </dependency>
+    </dependency>-->
     
     <dependency>
 	<groupId>org.apache.poi</groupId>
